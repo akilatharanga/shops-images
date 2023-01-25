@@ -69,7 +69,7 @@ export default function UploadForm() {
     <div>
       <div className="title">
         <h1>Unilever Srilanka</h1>
-        <h2>Shops Images Upload Forum</h2>
+        <h2>Shops Images Collection</h2>
         <br />
       </div>
 
